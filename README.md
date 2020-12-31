@@ -1,5 +1,4 @@
-# ENG6 Final Project
-## Fall 2020
+# ENG6 Final Project - Fall 2020
 
 Source Code for Multiplayer Uno Card Game Final Project, by Card Group 31 - Vivek Shome, Beyoncee Saetern, and Maxwell Wong.
 
